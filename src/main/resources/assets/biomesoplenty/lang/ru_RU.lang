@@ -40,6 +40,7 @@ tile.plants.cactus.name=Крохотный кактус
 tile.plants.witherwart.name=Иссушающий нарост
 tile.plants.reed.name=Камыш
 tile.plants.root.name=Корень
+tile.plants.wildcarrot.name=Дикая морковь
 
 tile.flowers.clover.name=Клевер
 tile.flowers.swampflower.name=Болотный цветок
@@ -181,7 +182,7 @@ tile.gemOre.amberblock.name=Янтарный блок
 
 tile.moss.name=Мох
 
-tile.hive.honeycomb.name=Блок медовых соты
+tile.hive.honeycomb.name=Блок медовых сот
 tile.hive.hive.name=Блок улья
 tile.hive.honeycombempty.name=Пустой блок медовых сот
 tile.hive.honeycombfilled.name=Заполненный блок медовых сот
